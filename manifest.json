@@ -1,0 +1,14 @@
+{
+    "name": "Eval",
+    "description": "Evaluates javascript code and sends the console output",
+    "authors": [
+        {
+            "name": "Mr. Owlsss",
+            "id": "1154878913760219187"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
